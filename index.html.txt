@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Jump Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>스페이스바로 점프!</h1>
+  <canvas id="gameCanvas" width="600" height="300"></canvas>
+  <script src="game.js"></script>
+</body>
+</html>
